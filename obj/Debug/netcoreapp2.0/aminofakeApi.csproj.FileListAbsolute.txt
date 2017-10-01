@@ -1,0 +1,10 @@
+/home/zfrost/angular/aminofakeApi/bin/Debug/netcoreapp2.0/aminofakeApi.deps.json
+/home/zfrost/angular/aminofakeApi/bin/Debug/netcoreapp2.0/aminofakeApi.runtimeconfig.json
+/home/zfrost/angular/aminofakeApi/bin/Debug/netcoreapp2.0/aminofakeApi.runtimeconfig.dev.json
+/home/zfrost/angular/aminofakeApi/bin/Debug/netcoreapp2.0/aminofakeApi.dll
+/home/zfrost/angular/aminofakeApi/bin/Debug/netcoreapp2.0/aminofakeApi.pdb
+/home/zfrost/angular/aminofakeApi/obj/Debug/netcoreapp2.0/aminofakeApi.csproj.CoreCompileInputs.cache
+/home/zfrost/angular/aminofakeApi/obj/Debug/netcoreapp2.0/aminofakeApi.AssemblyInfoInputs.cache
+/home/zfrost/angular/aminofakeApi/obj/Debug/netcoreapp2.0/aminofakeApi.AssemblyInfo.cs
+/home/zfrost/angular/aminofakeApi/obj/Debug/netcoreapp2.0/aminofakeApi.dll
+/home/zfrost/angular/aminofakeApi/obj/Debug/netcoreapp2.0/aminofakeApi.pdb
