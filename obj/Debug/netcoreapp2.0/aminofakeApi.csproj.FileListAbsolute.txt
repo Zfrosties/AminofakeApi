@@ -8,3 +8,14 @@
 /home/zfrost/angular/aminofakeApi/obj/Debug/netcoreapp2.0/aminofakeApi.AssemblyInfo.cs
 /home/zfrost/angular/aminofakeApi/obj/Debug/netcoreapp2.0/aminofakeApi.dll
 /home/zfrost/angular/aminofakeApi/obj/Debug/netcoreapp2.0/aminofakeApi.pdb
+C:\Users\Jean\Desktop\Aminofake v4\AminofakeApi\obj\Debug\netcoreapp2.0\aminofakeApi.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\Aminofake v4\AminofakeApi\obj\Debug\netcoreapp2.0\aminofakeApi.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\Aminofake v4\AminofakeApi\obj\Debug\netcoreapp2.0\aminofakeApi.AssemblyInfo.cs
+C:\Users\Jean\Desktop\Aminofake v4\AminofakeApi\obj\Debug\netcoreapp2.0\aminofakeApi.dll
+C:\Users\Jean\Desktop\Aminofake v4\AminofakeApi\obj\Debug\netcoreapp2.0\aminofakeApi.pdb
+C:\Users\Jean\Desktop\Aminofake v4\AminofakeApi\bin\Debug\netcoreapp2.0\aminofakeApi.deps.json
+C:\Users\Jean\Desktop\Aminofake v4\AminofakeApi\bin\Debug\netcoreapp2.0\aminofakeApi.runtimeconfig.json
+C:\Users\Jean\Desktop\Aminofake v4\AminofakeApi\bin\Debug\netcoreapp2.0\aminofakeApi.runtimeconfig.dev.json
+C:\Users\Jean\Desktop\Aminofake v4\AminofakeApi\bin\Debug\netcoreapp2.0\aminofakeApi.dll
+C:\Users\Jean\Desktop\Aminofake v4\AminofakeApi\bin\Debug\netcoreapp2.0\aminofakeApi.pdb
+C:\Users\Jean\Desktop\Aminofake v4\AminofakeApi\obj\Debug\netcoreapp2.0\aminofakeApi.csprojResolveAssemblyReference.cache
