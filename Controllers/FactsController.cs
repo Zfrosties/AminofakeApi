@@ -18,9 +18,16 @@ namespace aminofakeApi.Controllers
             _context = context;
         }
 
-        public List<Fact> GetFacts()
+        [HttpGet]
+        public List<Fact> Get()
         {
             return _context.Facts.ToList();
+        }
+
+        [HttpGet("{id}")]
+        public Fact Get(int id)
+        {
+            return _context.Facts.First(c => c.ID == id);
         }
 
         public String CreateFact(Fact fact)
