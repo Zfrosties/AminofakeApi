@@ -30,9 +30,10 @@ namespace aminofakeApi.Controllers
             return _context.Facts.First(c => c.ID == id);
         }
 
-        public String CreateFact(Fact fact)
+        [HttpPost]
+        public String CreateFact([FromForm]Fact fact)
         {
-            _context.Facts.Add(fact);
+            //_context.Facts.Add(fact);
             return "c'est ok";
         }
     }

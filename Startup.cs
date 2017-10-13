@@ -10,6 +10,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.EntityFrameworkCore;
 using aminofakeApi.Models;
+using Microsoft.AspNetCore.Http.Features;
 
 namespace aminofakeApi
 {
@@ -35,6 +36,8 @@ namespace aminofakeApi
                 });
             services.AddMvc();
 
+            services.Configure<FormOptions>(options => options.BufferBody = true);
+
             var connection = @"Server=(localdb)\mssqllocaldb;Database=EFGetStarted.AspNetCore.NewDb;Trusted_Connection=True;";
             services.AddDbContext<FactsContext>(options => options.UseSqlServer(connection));
 
@@ -49,6 +52,9 @@ namespace aminofakeApi
             }
             app.UseCors("CorsPolicy");
             app.UseMvc();
+
+
+
         }
     }
 }
