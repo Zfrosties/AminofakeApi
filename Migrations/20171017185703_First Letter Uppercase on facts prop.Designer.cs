@@ -11,9 +11,10 @@ using System;
 namespace aminofakeApi.Migrations
 {
     [DbContext(typeof(FactsContext))]
-    partial class FactsContextModelSnapshot : ModelSnapshot
+    [Migration("20171017185703_First Letter Uppercase on facts prop")]
+    partial class FirstLetterUppercaseonfactsprop
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

@@ -16,8 +16,8 @@ namespace aminofakeApi.Controllers
         public  IEnumerable<Fact> Get()
         {
             return new Fact[] {
-                new Fact { title="zaid est un pd",content="je l'ai vu hihi",validated=true,fake=false },
-                new Fact { title="jawad aussi",content="",validated=false }
+                //new Fact { title="zaid est un pd",content="je l'ai vu hihi",validated=true,fake=false },
+                //new Fact { title="jawad aussi",content="",validated=false }
                 };
             //Fact { title="",content="",validated=true,fake=false }, { title="",content="",validated=true,fake=false };
         }
@@ -39,12 +39,14 @@ namespace aminofakeApi.Controllers
         [HttpPut("{id}")]
         public void Put(int id, [FromBody]string value)
         {
+            int a = 0;
         }
 
         // DELETE api/values/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+            int a = 0;
         }
     }
 }
